@@ -1,52 +1,3 @@
-app-measurement.com
-adjust.com
-scorecardresearch.com
-appboy.com
-amplitude.com
-localytics.com
-kochava.com
-newrelic.com
-appsee.com
-flurry.com
-mixpanel.com
-gigya.com
-mobileapptracking.com
-samsungcloudsolution.com
-samsungacr.com
-adjust.io
-airbrake.io
-appboy.com
-appsflyer.com
-apsalar.com
-bango.combango.org
-bango.net
-basic-check.disconnect.me
-bkrtx.com
-bluekai.com
-bugsense.com
-burstly.com
-chartboost.com
-count.ly
-crashlytics.com
-crittercism.com
-custom-blacklisted-tracking-example.com
-do-not-tracker.org
-eviltracker.net
-flurry.com
-getexceptional.com
-inmobi.com
-jumptap.com
-localytics.com
-mixpanel.com
-mobile-collector.newrelic.com
-mobileapptracking.com
-playtomic.com
-stathat.com
-supercell.net
-tapjoy.com
-trackersimulator.org
-usergrid.com
-vungle.com
 #Title: NoTrack Tracker Blocklist
 #Description: Tracker Domains Block List from quidsup.net
 #Author: QuidsUp
@@ -1281,6 +1232,7 @@ dakic-ia-300.com #Lead Forensics
 danuoyi.alicdn.com #alicdn
 daphnecm.com
 dapxl.com
+dart.l.doubleclick.net #Google
 dartsearch.net
 data-eroadvertising.com
 data.coremetrics.com
@@ -12835,7 +12787,9 @@ piwik.up.welt.de #WELT
 piwikpro.com #Piwik PRO
 pixel-eu.rubiconproject.net.akadns.net #Rubicon
 pixel.bild.de #Bild
-pixel.brit.com
+pixel.getshogun.com #Shogun
+pixel.honestjohn.co.uk
+pixel.messenger.com #Facebook
 pixel.nymag.com #New York Magazine
 pixel.reddit.com
 pixel.redditmedia.com
