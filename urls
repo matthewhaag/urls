@@ -6,3 +6,8 @@
 *.localytics.com
 *.kochava.com
 *.newrelic.com
+*.appsee.com
+*.flurry.com
+*.mixpanel.com
+*.gigya.com
+*mobileapptracking.com
